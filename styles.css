@@ -1,0 +1,476 @@
+
+body {
+	background: #fff;
+	font-family: "Open Sans", Helvetica, sans-serif;
+	max-width: 1024px;
+	margin-left: auto;
+  	margin-right: auto;
+  	margin-bottom: 0px;
+  	position: relative;
+}
+
+.product-body {
+	height: 300vh;
+}
+
+h2 {
+	font-weight: normal;
+	letter-spacing: 2px;
+	font-size: 1.2em;
+	padding-bottom: 1%;
+	padding-top: 2%;
+}
+
+h3 {
+	color: black;
+	text-decoration: none;
+	font-size: 1.1em;
+	letter-spacing: 1.2px;
+	font-weight: 600px;
+}
+
+p {
+	color: black;
+	text-decoration: none;
+	font-size: 1.1em;
+	letter-spacing: 1.2px;
+}
+
+.navbar { 
+  width: 100%;
+  text-align: center;
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+
+}
+
+.navbar li {
+    display: inline-block;
+    float: none;
+}
+
+.navbar a {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.navbar ul {
+	padding-left: 0px;
+}
+
+.navlink a:link {
+    color: black;
+    text-decoration: none;
+}
+
+.navlink a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+.navlink a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.navlink a:active {
+    color: black;
+    text-decoration: none;
+} 
+
+.logo {
+	padding-left: 4%;
+	padding-right: 16%;
+}
+
+.logo a:link {
+    color: black;
+    text-decoration: none;
+    font-size: 1.3em;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+
+.logo a:visited {
+    color: black;
+    text-decoration: none;
+    font-size: 1.3em;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+
+.logo a:hover {
+    color: black;
+    text-decoration: none;
+    font-size: 1.3em;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+
+.logo a:active {
+    color: black;
+    text-decoration: none;
+    font-size: 1.3em;
+    letter-spacing: 2px;
+    font-weight: 600;
+} 
+
+.banner-img {
+	max-width: 1024px;
+	margin-top: 1.5%;
+	background-repeat: no-repeat;
+	position: relative;
+	background-position: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.banner-img .button-overlay{
+	position: relative;
+	top: -140px;
+	left: 45%;
+	z-index: 2;
+}
+
+.insta-module {
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	align-content: center;
+	text-align: center;
+	margin-top: -4%;
+}
+
+/* map view */
+
+.map-module {
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	align-content: center;
+	text-align: center;
+	max-width: 1024px;
+	margin-bottom: 520px;
+}
+
+
+.card {
+	float: left;
+	width: 30%;
+	margin-bottom: 2%;
+}
+
+
+.product-browser {
+	position: absolute;
+	top: 70%;
+	left: 6%;
+	width: 99%;
+}
+
+.product-img-all {
+	position: relative;
+}
+
+.center-the-img {
+	position
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.product-img {
+	position: relative;
+}
+
+.product-img-badge {
+	position: absolute;
+	top: 0;
+	left: 60%;
+
+}
+
+.product-title-price {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 250px;
+}
+
+.flavor {
+	float: left;
+	width: 70%;
+	text-align: left;
+}
+
+.price {
+	float: left;
+	width: 30%;
+	text-align: right;
+}
+/*
+baker section*/
+
+.about-module {
+	text-align: center;
+}
+
+.baker {
+	float: left;
+	width: 50%;
+	margin-top: 70px;
+	margin-left: 40px;
+}
+
+.abt-baker {
+	margin-top: 20px;
+	float: left;
+	width: 30%;
+	margin-left: 50px;
+}
+
+
+.lines {
+	position: relative;
+	top: -240px;
+	left: 0px;
+	width: 900px;
+}
+
+.more-rol {
+	position: relative;
+	top: -600px;
+	left: -100px;
+	float: left;
+	width: 20%;
+	margin-left: 400px;
+}
+
+.mission {
+	position: relative;
+	float: left;
+	width: 40%;
+	top: -600px;
+	left: -30px;
+	text-align: left;
+	font-size: .9em;
+}
+
+.footer {
+	position: relative;
+	top: -550px;
+}
+
+.also-like {
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	text-align: center;
+	align-content: center;
+}
+
+.also-like-browser {
+	align-content: center;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	padding-left: 90px;
+}
+
+.prod-des-block {
+	position: absolute;
+	top: 60px;
+	left: 50%;
+	background-color: white;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 3px;
+	border-radius: 21px;
+	padding-bottom: 20px;
+}
+
+.flavor-detail {
+	float: left;
+	width: 70%;
+	text-align: left;
+	margin-bottom: 9px;
+}
+
+.price-detail {
+	float: left;
+	width: 30%;
+	text-align: right;
+	margin-bottom: 0px;
+}
+
+#des {
+	font-size: .8em;
+}
+
+.glaze {
+	float: left;
+	width: 30%;
+	text-align: left;
+	margin-top: 0px;
+}
+
+
+.drop-down {
+	float: left;
+	width: 40%;
+	margin-right: 25%;
+	text-align: center;
+	border: 2px solid #979797;
+	height: 27px;
+	margin-top: 6px;
+	padding: 2px;
+	border-radius: 10px;
+	letter-spacing: 1px;
+}
+
+/*#choice {
+	float: left;
+	width: 70%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-right: 10px;
+}*/
+
+/*#down-arrow {
+	float: right;
+	width: 30%;
+	width: 20px;
+	padding-top: 6px;
+}*/
+
+
+
+
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.show {display: block;}
+
+
+
+
+
+
+
+
+.quantity-select {
+	margin-top: 50px;
+	position: relative;
+	width: 100%;
+	height: 80px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#minus {
+	float: left;
+	width: 20;
+	align-content: right;
+	padding: 30px;
+	margin-left: -30px;
+}
+
+#count {
+	float: left;
+	width: 30;
+	align-content: center;
+	border: 1.3px solid #979797;
+	padding: 3px 10px;
+}
+
+#plus {
+	float: left;
+	width: 30;
+	align-content: left;
+	padding: 25px;
+	padding-left: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+.add-button {
+	text-align: center;
+	padding: 8px 15px;
+	border-radius: 20px;
+	background-color: #4A90E2;
+	text-decoration: none;
+	color: white;
+	margin-left: 38%
+
+}
+
+.nutrient-module {
+	max-width: 1024px;
+	align-content: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+	height: 100px;
+	padding-left: 90px;
+	padding-right: auto;
+
+}
+
+.nutrient {
+	float: left;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+.review-module {
+	margin-top: 25px;
+	width: 100%;
+	height: 420px;
+}
+
+
+.review-card{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	float: left;
+	height: 150px;
+	width: 400px;
+	margin-left: 70px;
+	padding: 10px;
+	box-shadow: 1px 4px 8px 0 rgba(0, 0, 0, 0.1);
+
+}
+
+.review-overview {
+	font-size: .9em;
+}
+
+
+
+
+
+
